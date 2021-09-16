@@ -1,91 +1,91 @@
 [{
     "id": 2,
-    "question": "In what year was Axie Infinity released?",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "2018",
-    "option2": "2019",
-    "option3": "2020",
-    "option4": "2021",
-    "correct": 1
+    "pregunta": "In what year was Axie Infinity released?",
+    "imagen": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opcion1": "2018",
+    "opcion2": "2019",
+    "opcion3": "2020",
+    "oction4": "2021",
+    "correcta": 1
 },{
     "id": 1,
-    "question": "What is the Axie token name?",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "AXIE",
-    "option2": "AIS",
-    "option3": "AXS",
-    "option4": "ASX",
-    "correct": 3
+    "pregunta": "What is the Axie token name?",
+    "imagen": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opcion1": "AXIE",
+    "opcion2": "AIS",
+    "opcion3": "AXS",
+    "oction4": "ASX",
+    "correcta": 3
 },{
     "id": 3,
-    "question": "What is the name of creatures?",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "Infinities",
-    "option2": "Axies",
-    "option3": "Monsters",
-    "option4": "Tokens",
-    "correct": 2
+    "pregunta": "What is the name of creatures?",
+    "imagen": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opcion1": "Infinities",
+    "opcion2": "Axies",
+    "opcion3": "Monsters",
+    "oction4": "Tokens",
+    "correcta": 2
 },{
     "id": 5,
-    "question": "What is the name of Axie Founder?",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "Eloi Munted",
-    "option2": "Frank Colony",
-    "option3": "Alex Infin",
-    "option4": "Trung Nguyen",
-    "correct": 4
+    "pregunta": "What is the name of Axie Founder?",
+    "imagen": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opcion1": "Eloi Munted",
+    "opcion2": "Frank Colony",
+    "opcion3": "Alex Infin",
+    "oction4": "Trung Nguyen",
+    "correcta": 4
 },{
     "id": 6,
-    "question": "Where is Axie created?",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "Philippines",
-    "option2": "China",
-    "option3": "USA",
-    "option4": "Vietnam",
-    "correct": 4
+    "pregunta": "Where is Axie created?",
+    "imagen": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opcion1": "Philippines",
+    "opcion2": "China",
+    "opcion3": "USA",
+    "oction4": "Vietnam",
+    "correcta": 4
 },{
     "id": 8,
-    "question": "How many levels are in the game?",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "2",
-    "option2": "4",
-    "option3": "3",
-    "option4": "7",
-    "correct": 3
+    "pregunta": "How many levels are in the game?",
+    "imagen": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opcion1": "2",
+    "opcion2": "4",
+    "opcion3": "3",
+    "oction4": "7",
+    "correcta": 3
 },{
     "id": 9,
-    "question": "What is the technology Axie use to their tokens?",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "Blockchain",
-    "option2": "AI",
-    "option3": "Data science",
-    "option4": "Inmutability",
-    "correct": 1
+    "pregunta": "What is the technology Axie use to their tokens?",
+    "imagen": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opcion1": "Blockchain",
+    "opcion2": "AI",
+    "opcion3": "Data science",
+    "oction4": "Inmutability",
+    "correcta": 1
 },{
     "id": 10,
-    "question": "What is the business model for Axie players?",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "Referral",
-    "option2": "Play to earn",
-    "option3": "PVP",
-    "option4": "Farm",
-    "correct": 2
+    "pregunta": "What is the business model for Axie players?",
+    "imagen": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opcion1": "Referral",
+    "opcion2": "Play to earn",
+    "opcion3": "PVP",
+    "oction4": "Farm",
+    "correcta": 2
 },{
     "id": 11,
-    "question": "In what device Axie is NOT available?",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "iOS",
-    "option2": "Android",
-    "option3": "XBOX 360",
-    "option4": "Mac",
-    "correct": 3
+    "pregunta": "In what device Axie is NOT available?",
+    "imagen": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opcion1": "iOS",
+    "opcion2": "Android",
+    "opcion3": "XBOX 360",
+    "oction4": "Mac",
+    "correcta": 3
 },{
     "id": 12,
-    "question": "How many body parts each Axie has?",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "6",
-    "option2": "9",
-    "option3": "4",
-    "option4": "5",
-    "correct": 1
+    "pregunta": "How many body parts each Axie has?",
+    "imagen": "https://i.ibb.co/F6FqskF/diamond.png",
+    "opcion1": "6",
+    "opcion2": "9",
+    "opcion3": "4",
+    "oction4": "5",
+    "correcta": 1
 }]
